@@ -1,0 +1,19 @@
+{
+  "index": {
+    "title": "Welcome to Next.js Template",
+    "description": "A modern Next.js template with internationalization support"
+  },
+  "nav": {
+    "home": "Home",
+    "tools": "Tools",
+    "submit": "Submit",
+    "profile": "Profile",
+    "login": "Login",
+    "register": "Register"
+  },
+  "auth": {
+    "signIn": "Sign in with Google",
+    "signOut": "Sign out",
+    "loading": "Loading..."
+  }
+}
